@@ -1,5 +1,5 @@
 # Term Project (Calculation after numeric image recognition) 
-***Project team member : 201832607 김연비, 2022 신연수, 2022 홍민석, 황반푹***
+***Project team member : 201832607 김연비, 202234904 신연수, 202234949 홍민석, 황반푹***
 
 ### Table of Contents
 ---
@@ -33,14 +33,14 @@ First, Upload a numeric image and find the boundary value as shown in the image 
 Second, Find the boundaries of each of the numeric images as shown in the image below.
 ![이미지1](https://user-images.githubusercontent.com/112548680/202973957-7f978732-1aca-46ca-9894-f6e71d98bf32.jpg)
 
-Third, When each boundary is expressed in numbers, it is output as follows.
+Third, When each boundary is expressed in numbers, it is output as follows.  
 ![이미지3](https://user-images.githubusercontent.com/112548680/202973989-95153efd-af63-41d3-a345-f4f402052f05.jpg)
 
 Fourth, The image below is an image that shows each boundary easily.
-(It appears as the boundary of the whole, the boundary of the seat of white, the boundary of the seat of ten, and the boundary of the seat of work.)
-![이미지4](https://user-images.githubusercontent.com/112548680/202974000-7dcaa3f9-7e84-4adb-9c18-274ed1877abb.jpg)
+(It appears as the boundary of the whole, the boundary of the seat of white, the boundary of the seat of ten, and the boundary of the seat of work.)  
+<img src="https://user-images.githubusercontent.com/112548680/202974000-7dcaa3f9-7e84-4adb-9c18-274ed1877abb.jpg"  width="500" height="400">
 
-Fifth, It can be seen that the image is well recognized as follows.
+Fifth, It can be seen that the image is well recognized as follows.  
 ![이미지5](https://user-images.githubusercontent.com/112548680/202974012-8cabe3b8-a2c2-4e61-8108-e574d31ee6d3.png)
 
 ---
